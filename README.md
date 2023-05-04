@@ -1,7 +1,7 @@
 # kafka
 Exploring kafka
 
-Topics
+## Topics
 ---------------------
 ```
 Are records in database
