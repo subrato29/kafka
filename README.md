@@ -2,37 +2,37 @@
 Exploring kafka
 
 ## Topics
----------------------
 ```
 Are records in database
+
 ```
 
-Partition
----------------------
+## Partition
 ```
 Linear data structure
+
 ```
 
-Producer
----------------------
+## Producer
 ```
 Writes/appends in records (Topics)
+
 ```
 
-Consumer
----------------------
+## Consumer
 ```
 Reads from records (Topics)
+
 ```
 
-Broker
----------------------
+## Broker
 ```
 Server
+
 ```
 
-Cluster
----------------------
+## Cluster
 ```
 Multiple topics in a server(broker)
+
 ```
